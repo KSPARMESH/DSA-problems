@@ -14,6 +14,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -35,4 +36,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
