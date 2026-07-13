@@ -8,12 +8,14 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Linked List
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -21,6 +23,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
