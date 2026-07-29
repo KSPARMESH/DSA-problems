@@ -36,6 +36,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Counting
@@ -58,6 +59,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
