@@ -64,4 +64,12 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KSPARMESH/DSA-problems/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/KSPARMESH/DSA-problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
