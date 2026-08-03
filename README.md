@@ -35,6 +35,7 @@ Solving DSA related programs and problem solving..
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -78,4 +79,20 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/KSPARMESH/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
