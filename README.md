@@ -10,6 +10,7 @@ Solving DSA related programs and problem solving..
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Solving DSA related programs and problem solving..
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -62,6 +64,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
