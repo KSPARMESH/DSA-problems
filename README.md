@@ -38,6 +38,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
+| [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
@@ -66,6 +67,7 @@ Solving DSA related programs and problem solving..
 ## Sorting
 |  |
 | ------- |
+| [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
@@ -114,4 +116,16 @@ Solving DSA related programs and problem solving..
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
