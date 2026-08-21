@@ -46,6 +46,7 @@ Solving DSA related programs and problem solving..
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -128,4 +129,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
