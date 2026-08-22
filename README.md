@@ -44,6 +44,7 @@ Solving DSA related programs and problem solving..
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KSPARMESH/DSA-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/KSPARMESH/DSA-problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/1254-number-of-closed-islands) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -101,6 +102,7 @@ Solving DSA related programs and problem solving..
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KSPARMESH/DSA-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/KSPARMESH/DSA-problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -110,6 +112,7 @@ Solving DSA related programs and problem solving..
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KSPARMESH/DSA-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/KSPARMESH/DSA-problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
@@ -117,6 +120,7 @@ Solving DSA related programs and problem solving..
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/KSPARMESH/DSA-problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/1254-number-of-closed-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -126,6 +130,7 @@ Solving DSA related programs and problem solving..
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KSPARMESH/DSA-problems/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/KSPARMESH/DSA-problems/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/1254-number-of-closed-islands) |
 ## Bucket Sort
 |  |
 | ------- |
