@@ -31,6 +31,7 @@ Solving DSA related programs and problem solving..
 ## Math
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KSPARMESH/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSPARMESH/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -150,4 +151,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
