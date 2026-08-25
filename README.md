@@ -9,6 +9,7 @@ Solving DSA related programs and problem solving..
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
@@ -35,6 +36,7 @@ Solving DSA related programs and problem solving..
 | [0009-palindrome-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KSPARMESH/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -152,6 +154,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 ## Simulation
 |  |
 | ------- |
