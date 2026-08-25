@@ -34,6 +34,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0009-palindrome-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0263-ugly-number) |
+| [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KSPARMESH/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
