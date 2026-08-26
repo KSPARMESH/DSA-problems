@@ -39,6 +39,7 @@ Solving DSA related programs and problem solving..
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KSPARMESH/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSPARMESH/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -163,4 +164,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
