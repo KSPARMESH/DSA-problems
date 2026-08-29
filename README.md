@@ -9,6 +9,7 @@ Solving DSA related programs and problem solving..
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +80,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
