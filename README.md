@@ -64,6 +64,7 @@ Solving DSA related programs and problem solving..
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
 |  |
 | ------- |
