@@ -189,4 +189,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/KSPARMESH/DSA-problems/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
