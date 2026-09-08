@@ -208,4 +208,5 @@ Solving DSA related programs and problem solving..
 | [1795-rearrange-products-table](https://github.com/KSPARMESH/DSA-problems/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/KSPARMESH/DSA-problems/tree/master/1873-calculate-special-bonus) |
 | [1890-the-latest-login-in-2020](https://github.com/KSPARMESH/DSA-problems/tree/master/1890-the-latest-login-in-2020) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/KSPARMESH/DSA-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
