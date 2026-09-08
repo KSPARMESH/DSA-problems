@@ -200,6 +200,7 @@ Solving DSA related programs and problem solving..
 | [0620-not-boring-movies](https://github.com/KSPARMESH/DSA-problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/KSPARMESH/DSA-problems/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KSPARMESH/DSA-problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/KSPARMESH/DSA-problems/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/KSPARMESH/DSA-problems/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/KSPARMESH/DSA-problems/tree/master/1693-daily-leads-and-partners) |
