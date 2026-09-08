@@ -193,4 +193,5 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/KSPARMESH/DSA-problems/tree/master/0182-duplicate-emails) |
+| [0511-game-play-analysis-i](https://github.com/KSPARMESH/DSA-problems/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
