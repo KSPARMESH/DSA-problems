@@ -204,4 +204,5 @@ Solving DSA related programs and problem solving..
 | [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
 | [1693-daily-leads-and-partners](https://github.com/KSPARMESH/DSA-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/KSPARMESH/DSA-problems/tree/master/1729-find-followers-count) |
+| [1757-recyclable-and-low-fat-products](https://github.com/KSPARMESH/DSA-problems/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
