@@ -207,4 +207,5 @@ Solving DSA related programs and problem solving..
 | [1757-recyclable-and-low-fat-products](https://github.com/KSPARMESH/DSA-problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/KSPARMESH/DSA-problems/tree/master/1795-rearrange-products-table) |
 | [1873-calculate-special-bonus](https://github.com/KSPARMESH/DSA-problems/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/KSPARMESH/DSA-problems/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
