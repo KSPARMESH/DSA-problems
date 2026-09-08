@@ -44,6 +44,7 @@ Solving DSA related programs and problem solving..
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KSPARMESH/DSA-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KSPARMESH/DSA-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/KSPARMESH/DSA-problems/tree/master/3870-count-commas-in-range) |
 ## Array
 |  |
 | ------- |
