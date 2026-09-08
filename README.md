@@ -201,4 +201,5 @@ Solving DSA related programs and problem solving..
 | [0627-swap-sex-of-employees](https://github.com/KSPARMESH/DSA-problems/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KSPARMESH/DSA-problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/KSPARMESH/DSA-problems/tree/master/1148-article-views-i) |
+| [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
 <!---LeetCode Topics End-->
