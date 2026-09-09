@@ -46,6 +46,7 @@ Solving DSA related programs and problem solving..
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/KSPARMESH/DSA-problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
 |  |
 | ------- |
@@ -66,6 +67,7 @@ Solving DSA related programs and problem solving..
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
