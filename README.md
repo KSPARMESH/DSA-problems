@@ -17,6 +17,7 @@ Solving DSA related programs and problem solving..
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -26,6 +27,7 @@ Solving DSA related programs and problem solving..
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
