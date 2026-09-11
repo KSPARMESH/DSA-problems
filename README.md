@@ -12,6 +12,7 @@ Solving DSA related programs and problem solving..
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -67,6 +68,7 @@ Solving DSA related programs and problem solving..
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/KSPARMESH/DSA-problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/KSPARMESH/DSA-problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -82,6 +84,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -186,6 +189,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
