@@ -95,6 +95,7 @@ Solving DSA related programs and problem solving..
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/KSPARMESH/DSA-problems/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
