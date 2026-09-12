@@ -18,6 +18,7 @@ Solving DSA related programs and problem solving..
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
@@ -37,6 +38,7 @@ Solving DSA related programs and problem solving..
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
@@ -82,6 +84,7 @@ Solving DSA related programs and problem solving..
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/KSPARMESH/DSA-problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/3483-unique-3-digit-even-numbers) |
