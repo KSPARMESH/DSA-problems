@@ -42,6 +42,7 @@ Solving DSA related programs and problem solving..
 | [0009-palindrome-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0009-palindrome-number) |
 | [0263-ugly-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
+| [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -234,4 +235,8 @@ Solving DSA related programs and problem solving..
 | [1890-the-latest-login-in-2020](https://github.com/KSPARMESH/DSA-problems/tree/master/1890-the-latest-login-in-2020) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/KSPARMESH/DSA-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KSPARMESH/DSA-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
