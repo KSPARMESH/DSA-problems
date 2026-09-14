@@ -11,29 +11,26 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        //logic for merging and then sorting the merged list
-        if(list1==NULL){
-            return list2;
-        }
-        if(list2==NULL){
-            return list1;
-        }
-        ListNode* temp=list1;
-        while(temp->next!=NULL){
+        //logic for merging and with no need to sort
+        ListNode* dummy=new ListNode(0);
+        ListNode* temp=dummy;
+        while(list1!=NULL && list2!=NULL){
+            if(list1->val <= list2->val){
+                temp->next=list1;
+                list1=list1->next;
+            }
+            else{
+                temp->next=list2;
+                list2=list2->next;
+            }
             temp=temp->next;
         }
-        temp->next=list2;
-        ListNode* temp1=list1;
-        while(temp1!=NULL){
-            ListNode* temp2=temp1->next;
-            while(temp2!=NULL){
-                if(temp1->val > temp2->val){
-                    swap(temp1->val,temp2->val);
-                }
-                temp2=temp2->next;
-            }
-            temp1=temp1->next;
+        if(list1!=NULL){
+            temp->next=list1;
         }
-        return list1;
+        else{
+            temp->next=list2;
+        }
+        return dummy->next;
     }
 };
