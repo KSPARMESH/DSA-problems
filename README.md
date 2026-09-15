@@ -60,6 +60,7 @@ Solving DSA related programs and problem solving..
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
@@ -107,6 +108,7 @@ Solving DSA related programs and problem solving..
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -243,4 +245,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
