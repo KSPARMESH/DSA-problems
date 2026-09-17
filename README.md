@@ -61,6 +61,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/KSPARMESH/DSA-problems/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
