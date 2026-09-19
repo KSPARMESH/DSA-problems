@@ -48,6 +48,7 @@ Solving DSA related programs and problem solving..
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KSPARMESH/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -253,6 +254,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/KSPARMESH/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Quicksort
 |  |
 | ------- |
