@@ -110,6 +110,7 @@ Solving DSA related programs and problem solving..
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3498-reverse-degree-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -199,6 +200,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
