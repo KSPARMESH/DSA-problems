@@ -44,6 +44,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0002-add-two-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0043-multiply-strings) |
 | [0263-ugly-number](https://github.com/KSPARMESH/DSA-problems/tree/master/0263-ugly-number) |
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
@@ -107,6 +108,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KSPARMESH/DSA-problems/tree/master/0006-zigzag-conversion) |
+| [0043-multiply-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -199,6 +201,7 @@ Solving DSA related programs and problem solving..
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0043-multiply-strings) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/KSPARMESH/DSA-problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
