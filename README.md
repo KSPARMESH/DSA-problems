@@ -108,6 +108,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/KSPARMESH/DSA-problems/tree/master/0006-zigzag-conversion) |
+| [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
@@ -218,6 +219,7 @@ Solving DSA related programs and problem solving..
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Bit Manipulation
 |  |
@@ -264,4 +266,12 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
