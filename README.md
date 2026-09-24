@@ -70,6 +70,7 @@ Solving DSA related programs and problem solving..
 | [0057-insert-interval](https://github.com/KSPARMESH/DSA-problems/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/KSPARMESH/DSA-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
@@ -276,6 +277,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
+| [0198-house-robber](https://github.com/KSPARMESH/DSA-problems/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
