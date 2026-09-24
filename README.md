@@ -50,6 +50,7 @@ Solving DSA related programs and problem solving..
 | [0728-self-dividing-numbers](https://github.com/KSPARMESH/DSA-problems/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/KSPARMESH/DSA-problems/tree/master/0836-rectangle-overlap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/KSPARMESH/DSA-problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/KSPARMESH/DSA-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [2485-find-the-pivot-integer](https://github.com/KSPARMESH/DSA-problems/tree/master/2485-find-the-pivot-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -275,6 +276,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
+| [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -287,4 +289,8 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KSPARMESH/DSA-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
