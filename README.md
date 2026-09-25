@@ -39,6 +39,7 @@ Solving DSA related programs and problem solving..
 | [0142-linked-list-cycle-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/KSPARMESH/DSA-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0647-palindromic-substrings](https://github.com/KSPARMESH/DSA-problems/tree/master/0647-palindromic-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -118,6 +119,7 @@ Solving DSA related programs and problem solving..
 | [0043-multiply-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0043-multiply-strings) |
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
+| [0647-palindromic-substrings](https://github.com/KSPARMESH/DSA-problems/tree/master/0647-palindromic-substrings) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
@@ -278,6 +280,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0198-house-robber](https://github.com/KSPARMESH/DSA-problems/tree/master/0198-house-robber) |
+| [0647-palindromic-substrings](https://github.com/KSPARMESH/DSA-problems/tree/master/0647-palindromic-substrings) |
 | [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
