@@ -74,6 +74,7 @@ Solving DSA related programs and problem solving..
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [0198-house-robber](https://github.com/KSPARMESH/DSA-problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/KSPARMESH/DSA-problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/KSPARMESH/DSA-problems/tree/master/0733-flood-fill) |
@@ -130,6 +131,7 @@ Solving DSA related programs and problem solving..
 | ------- |
 | [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/KSPARMESH/DSA-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/KSPARMESH/DSA-problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -137,6 +139,7 @@ Solving DSA related programs and problem solving..
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -301,4 +304,12 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/KSPARMESH/DSA-problems/tree/master/1137-n-th-tribonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
