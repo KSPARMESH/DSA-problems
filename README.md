@@ -123,6 +123,7 @@ Solving DSA related programs and problem solving..
 | [0151-reverse-words-in-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/KSPARMESH/DSA-problems/tree/master/0205-isomorphic-strings) |
 | [0647-palindromic-substrings](https://github.com/KSPARMESH/DSA-problems/tree/master/0647-palindromic-substrings) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/3498-reverse-degree-of-a-string) |
@@ -147,6 +148,7 @@ Solving DSA related programs and problem solving..
 | [0155-min-stack](https://github.com/KSPARMESH/DSA-problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/KSPARMESH/DSA-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/KSPARMESH/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
 | ------- |
