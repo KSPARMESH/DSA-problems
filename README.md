@@ -34,6 +34,7 @@ Solving DSA related programs and problem solving..
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/KSPARMESH/DSA-problems/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/KSPARMESH/DSA-problems/tree/master/0141-linked-list-cycle) |
@@ -69,6 +70,7 @@ Solving DSA related programs and problem solving..
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/KSPARMESH/DSA-problems/tree/master/0057-insert-interval) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
@@ -132,6 +134,7 @@ Solving DSA related programs and problem solving..
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/KSPARMESH/DSA-problems/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/KSPARMESH/DSA-problems/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/KSPARMESH/DSA-problems/tree/master/0215-kth-largest-element-in-an-array) |
