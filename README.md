@@ -169,6 +169,7 @@ Solving DSA related programs and problem solving..
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
@@ -180,6 +181,7 @@ Solving DSA related programs and problem solving..
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/KSPARMESH/DSA-problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/KSPARMESH/DSA-problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/KSPARMESH/DSA-problems/tree/master/0463-island-perimeter) |
@@ -326,4 +328,12 @@ Solving DSA related programs and problem solving..
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/KSPARMESH/DSA-problems/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/KSPARMESH/DSA-problems/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
