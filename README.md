@@ -129,6 +129,7 @@ Solving DSA related programs and problem solving..
 | [0647-palindromic-substrings](https://github.com/KSPARMESH/DSA-problems/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KSPARMESH/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KSPARMESH/DSA-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/KSPARMESH/DSA-problems/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
@@ -158,6 +159,7 @@ Solving DSA related programs and problem solving..
 | [0232-implement-queue-using-stacks](https://github.com/KSPARMESH/DSA-problems/tree/master/0232-implement-queue-using-stacks) |
 | [0856-score-of-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KSPARMESH/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -318,6 +320,7 @@ Solving DSA related programs and problem solving..
 | [0022-generate-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KSPARMESH/DSA-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KSPARMESH/DSA-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
