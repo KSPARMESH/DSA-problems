@@ -316,6 +316,7 @@ Solving DSA related programs and problem solving..
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KSPARMESH/DSA-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/KSPARMESH/DSA-problems/tree/master/3220-odd-and-even-transactions) |
 | [3497-analyze-subscription-conversion](https://github.com/KSPARMESH/DSA-problems/tree/master/3497-analyze-subscription-conversion) |
+| [3521-find-product-recommendation-pairs](https://github.com/KSPARMESH/DSA-problems/tree/master/3521-find-product-recommendation-pairs) |
 | [3564-seasonal-sales-analysis](https://github.com/KSPARMESH/DSA-problems/tree/master/3564-seasonal-sales-analysis) |
 ## Geometry
 |  |
