@@ -291,6 +291,7 @@ Solving DSA related programs and problem solving..
 | [1407-top-travellers](https://github.com/KSPARMESH/DSA-problems/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/KSPARMESH/DSA-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KSPARMESH/DSA-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1693-daily-leads-and-partners](https://github.com/KSPARMESH/DSA-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/KSPARMESH/DSA-problems/tree/master/1729-find-followers-count) |
