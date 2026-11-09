@@ -311,6 +311,7 @@ Solving DSA related programs and problem solving..
 | [1978-employees-whose-manager-left-the-company](https://github.com/KSPARMESH/DSA-problems/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KSPARMESH/DSA-problems/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3497-analyze-subscription-conversion](https://github.com/KSPARMESH/DSA-problems/tree/master/3497-analyze-subscription-conversion) |
+| [3564-seasonal-sales-analysis](https://github.com/KSPARMESH/DSA-problems/tree/master/3564-seasonal-sales-analysis) |
 ## Geometry
 |  |
 | ------- |
