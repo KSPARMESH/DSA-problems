@@ -300,6 +300,7 @@ Solving DSA related programs and problem solving..
 | [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/KSPARMESH/DSA-problems/tree/master/1587-bank-account-summary-ii) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/KSPARMESH/DSA-problems/tree/master/1633-percentage-of-users-attended-a-contest) |
+| [1661-average-time-of-process-per-machine](https://github.com/KSPARMESH/DSA-problems/tree/master/1661-average-time-of-process-per-machine) |
 | [1693-daily-leads-and-partners](https://github.com/KSPARMESH/DSA-problems/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/KSPARMESH/DSA-problems/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/KSPARMESH/DSA-problems/tree/master/1741-find-total-time-spent-by-each-employee) |
