@@ -289,6 +289,7 @@ Solving DSA related programs and problem solving..
 | [1193-monthly-transactions-i](https://github.com/KSPARMESH/DSA-problems/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/KSPARMESH/DSA-problems/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/KSPARMESH/DSA-problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/KSPARMESH/DSA-problems/tree/master/1393-capital-gainloss) |
 | [1407-top-travellers](https://github.com/KSPARMESH/DSA-problems/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/KSPARMESH/DSA-problems/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/KSPARMESH/DSA-problems/tree/master/1527-patients-with-a-condition) |
